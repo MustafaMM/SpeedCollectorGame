@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Environment
+  - Ground
+  - Sky
+  - Background
+  - Trap
+  - SemiTrap
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Background
+  - Water
+  - UI
+  - Ground
+  - Collectable
+  - Player
+  - Environment
+  - Sky
+  - Trap
+  - SemiTrap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Sky
+    uniqueID: 2930910387
+    locked: 0
+  - name: Background
+    uniqueID: 1197020815
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 480961427
+    locked: 0
+  - name: Enivironment
+    uniqueID: 1574075417
+    locked: 0
+  - name: Collectables
+    uniqueID: 3109853339
+    locked: 0
+  - name: Player
+    uniqueID: 677765301
+    locked: 0
+  - name: Trap
+    uniqueID: 3785774791
+    locked: 0
