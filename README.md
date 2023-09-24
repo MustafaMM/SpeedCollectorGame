@@ -1,5 +1,7 @@
 # SpeedCollectorGame
 
+To view gameplay footage, simply use the mp4 file. No other steps are necessary.
+
 To view the game in Unity:
 
 1. Download and sign into the github desktop app, at https://desktop.github.com/
