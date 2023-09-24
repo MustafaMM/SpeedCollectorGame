@@ -1,5 +1,7 @@
 # SpeedCollectorGame
 
+Coin Collector is a simple Unity made game with the goal of collecting as many coins as possible while minimizing time as well as maximizing health. At the end of the game a score is calculated, and the players goal is to get the highest score possible!
+
 To view gameplay footage, simply use the mp4 file. No other steps are necessary.
 
 To view the game in Unity:
